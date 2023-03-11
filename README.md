@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in Web Development
-- 🌱 I want to became a MEAN stack developer.
+- 🌱 Learning to became a full stack developer
 - 💞️ I’m looking to collaborate on frontend web projects
 - 📫 How to reach me kakashrao.2021@gmail.com
 
