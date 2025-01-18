@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash
-- 👀 Experienced (2.5 years) Angular and React developer looking for related projects
+- 👀 Experienced (3 years) Angular and React developer looking for related projects
 - 🌱 Backend development using NodeJs, ExpressJs and MongoDB
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 Reach me at kakashrao.2021@gmail.com
